@@ -21,7 +21,9 @@ const About = () => {
               <p>
                 I’m Sanwal Mumtaz, a Full-Stack MERN Developer specializing in MongoDB, Express.js, React.js, Node.js, and Next.js, with growing expertise in React Native for cross-platform mobile apps.<br/>
 
-                 I have experience building scalable web applications, real-time systems, and optimized APIs, along with strong skills in SEO and website performance improvement. I’ve worked with clients on platforms like Fiverr, developed complete projects, and also shared my knowledge by creating a React.js course on Udemy.
+                 I have experience building scalable web applications, real-time systems, and optimized APIs, along with strong skills in SEO and website performance improvement. I’ve worked with clients on platforms like Fiverr, developed complete projects, and also shared my knowledge by creating a React.js course on Udemy.<br/>
+
+                Here is the link to my created Course: https://www.udemy.com/course/complete-guide-to-reactjs-new-version19-inc-nextjs-14/?referralCode=8248276742EC52A609C1
                 </p>
             </div>
           </div>

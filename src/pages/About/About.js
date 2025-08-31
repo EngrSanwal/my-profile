@@ -23,8 +23,9 @@ const About = () => {
 
                  I have experience building scalable web applications, real-time systems, and optimized APIs, along with strong skills in SEO and website performance improvement. I’ve worked with clients on platforms like Fiverr, developed complete projects, and also shared my knowledge by creating a React.js course on Udemy.<br/>
 
-                Here is the link to my created Course: https://www.udemy.com/course/complete-guide-to-reactjs-new-version19-inc-nextjs-14/?referralCode=8248276742EC52A609C1
-                </p>
+                Here is the link to my created Course: https:<a href="https://www.udemy.com/course/complete-guide-to-reactjs-new-version19-inc-nextjs-14/?referralCode=8248276742EC52A609C1" target="_blank" 
+   style="display:inline-block; padding:10px 18px; background:#2563eb; color:#fff; text-decoration:none; border-radius:8px;">
+   🚀 My Udemy Course (I’m the Instructor) </a>     </p>
             </div>
           </div>
         </div>

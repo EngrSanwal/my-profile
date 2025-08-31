@@ -47,7 +47,7 @@ const Contact = () => {
                       <h6>
                       <button className="button" style={{width: "100%"}}
                         onClick={() => window.location.href = "https://www.linkedin.com/in/sanwal-mumtaz-b12047272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"}>
-                        Contact through Linkedin<BsLinkedin color="white" size={30} className="ms-4"/>
+                        Contact on Linkedin<BsLinkedin color="white" size={30} className="ms-4"/>
                       </button>
                       </h6>
                     </div>

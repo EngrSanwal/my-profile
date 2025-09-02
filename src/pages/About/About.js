@@ -37,7 +37,7 @@ const About = () => {
     width: "100%",
     textAlign: "center"
   }}
-   🚀 My Udemy Course (I’m the Instructor) </a>     </p>
+    My Udemy Course (I’m the Instructor) </a>     </p>
             </div>
           </div>
         </div>

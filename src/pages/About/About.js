@@ -36,8 +36,8 @@ const About = () => {
     transition: "background-color 0.3s ease, transform 0.2s ease",
     width: "100%",
     textAlign: "center"
-  }}
-    My Udemy Course (I’m the Instructor) </a>     </p>
+  }}>  {/* ✅ ADDED CLOSING > HERE */}
+    My Udemy Course (I'm the Instructor) </a>     </p>
             </div>
           </div>
         </div>
